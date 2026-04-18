@@ -28,6 +28,10 @@ Herramientas Utilizadas
 Big Query:
 https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1stamalesdonrutilio!2sus-central1!3s57597089-ac12-44dd-b43e-0f2ad04754e9!2e1&project=tamalesdonrutilio
 
+Video:
+
+https://www.youtube.com/watch?v=xaLfsQl84dU
+
 
 Objetivo
 
