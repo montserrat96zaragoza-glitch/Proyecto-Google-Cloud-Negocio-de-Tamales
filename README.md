@@ -28,6 +28,7 @@ Herramientas Utilizadas
 Big Query:
 https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1stamalesdonrutilio!2sus-central1!3s57597089-ac12-44dd-b43e-0f2ad04754e9!2e1&project=tamalesdonrutilio
 
+
 Objetivo
 
 Transformar un negocio tradicional en un modelo data-driven, aprovechando el poder de la nube para:
@@ -40,4 +41,3 @@ Enfoque
 
 Este proyecto demuestra cómo incluso un negocio local puede escalar su análisis utilizando tecnología de nivel empresarial como Google Cloud Platform.
 
-Si quieres, puedo hacerte otra versión más tipo presentación (más visual) o una portada con estilo más académico para tu maestría 👍
